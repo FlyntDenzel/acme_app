@@ -5,6 +5,7 @@ import styles from '@/app/ui/home.module.css';
 import { lusitana } from '@/app/ui/font';
 import Image from 'next/image';
 
+//homepage associated with route i.e acme.com
 
 export default function Page() {
   return (
